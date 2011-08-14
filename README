@@ -1,0 +1,5 @@
+Plugin like gnome-do
+Press control+space
+
+Requires jquery, jquery-ui, jquery.hotkeys and jquery.cookie.
+
